@@ -1,6 +1,6 @@
 ### 👋 Hello
 
-I am a postdoctoral researcher working in quantitative fishery and ecosystem science to support the sustainable management of marine resouces. Interested in open data science and facinated by fish. This is my personal profile and views/projects are my own. If you are interested in my research since joining NOAA check out my [work profile here](https://github.com/amanda-hart). 
+I am a researcher working in quantitative fishery and ecosystem science to support the sustainable management of marine resouces. Interested in open data science and facinated by fish. This is my personal profile and views/projects are my own. If you are interested in my research since joining NOAA check out my [work profile here](https://github.com/amanda-hart). 
 
 
 
